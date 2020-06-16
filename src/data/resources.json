@@ -1,0 +1,197 @@
+[
+    {
+        "name": "Fruit",
+        "raw_resource": "Food",
+        "multiplier": 1
+    },
+    {
+        "name": "Meat",
+        "raw_resource": "Food",
+        "multiplier": 10
+    },
+    {
+        "name": "Wine",
+        "raw_resource": "Food",
+        "multiplier": 10
+    },
+    {
+        "name": "Grain",
+        "raw_resource": "Food",
+        "multiplier": 100
+    },
+    {
+        "name": "Fish",
+        "raw_resource": "Food",
+        "multiplier": 200
+    },
+    {
+        "name": "Herbs",
+        "raw_resource": "Food",
+        "multiplier": 2500
+    },
+    {
+        "name": "Bread",
+        "raw_resource": "Food",
+        "multiplier": 3000
+    },
+    {
+        "name": "Seasoned Meat",
+        "raw_resource": "Food",
+        "multiplier": 26000
+    },
+    {
+        "name": "Spices",
+        "raw_resource": "Food",
+        "multiplier": 250000
+    },
+    {
+        "name": "Salt",
+        "raw_resource": "Food",
+        "multiplier": 250000
+    },
+    {
+        "name": "Spiced Wine",
+        "raw_resource": "Food",
+        "multiplier": 2600000
+    },
+    {
+        "name": "Cured Fish",
+        "raw_resource": "Food",
+        "multiplier": 12700000
+    },
+    {
+        "name": "Hearty Meal",
+        "raw_resource": "Food",
+        "multiplier": 55000000
+    },
+    {
+        "name": "Log",
+        "raw_resource": "Material",
+        "multiplier": 1
+    },
+    {
+        "name": "Clay",
+        "raw_resource": "Material",
+        "multiplier": 10
+    },
+    {
+        "name": "Plank",
+        "raw_resource": "Material",
+        "multiplier": 10
+    },
+    {
+        "name": "Rough Stone",
+        "raw_resource": "Material",
+        "multiplier": 100
+    },
+    {
+        "name": "Brick",
+        "raw_resource": "Material",
+        "multiplier": 200
+    },
+    {
+        "name": "Hardwood",
+        "raw_resource": "Material",
+        "multiplier": 2500
+    },
+    {
+        "name": "Stone Block",
+        "raw_resource": "Material",
+        "multiplier": 10000
+    },
+    {
+        "name": "Coal",
+        "raw_resource": "Material",
+        "multiplier": 25000
+    },
+    {
+        "name": "Framework",
+        "raw_resource": "Material",
+        "multiplier": 26000
+    },
+    {
+        "name": "Iron Ore",
+        "raw_resource": "Material",
+        "multiplier": 250000
+    },
+    {
+        "name": "Construct",
+        "raw_resource": "Material",
+        "multiplier": 2900000
+    },
+    {
+        "name": "Iron Bar",
+        "raw_resource": "Material",
+        "multiplier": 5000000
+    },
+    {
+        "name": "Iron Tool",
+        "raw_resource": "Material",
+        "multiplier": 50000000
+    },
+    {
+        "name": "Potion",
+        "raw_resource": "Science",
+        "multiplier": 1
+    },
+    {
+        "name": "Concoction",
+        "raw_resource": "Science",
+        "multiplier": 10
+    },
+    {
+        "name": "Papyrus",
+        "raw_resource": "Science",
+        "multiplier": 10
+    },
+    {
+        "name": "Blank Book",
+        "raw_resource": "Science",
+        "multiplier": 100
+    },
+    {
+        "name": "Pigments",
+        "raw_resource": "Science",
+        "multiplier": 100
+    },
+    {
+        "name": "Mercury",
+        "raw_resource": "Science",
+        "multiplier": 2500
+    },
+    {
+        "name": "Oil",
+        "raw_resource": "Science",
+        "multiplier": 25000
+    },
+    {
+        "name": "Sulphur",
+        "raw_resource": "Science",
+        "multiplier": 25000
+    },
+    {
+        "name": "Ointments",
+        "raw_resource": "Science",
+        "multiplier": 250000
+    },
+    {
+        "name": "Elixir",
+        "raw_resource": "Science",
+        "multiplier": 250000
+    },
+    {
+        "name": "Ink",
+        "raw_resource": "Science",
+        "multiplier": 2600000
+    },
+    {
+        "name": "Aether",
+        "raw_resource": "Science",
+        "multiplier": 5900000
+    },
+    {
+        "name": "Almanac",
+        "raw_resource": "Science",
+        "multiplier": 27000000
+    }
+]

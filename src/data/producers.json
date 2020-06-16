@@ -1,0 +1,154 @@
+[
+    {
+        "name": "Foraging Hut",
+        "production_resource": "Fruit",
+        "production_amount": 0.26,
+        "production_time": 3,
+        "consumption_resource": null,
+        "consumption_amount": 0
+    },
+    {
+        "name": "Winery",
+        "production_resource": "Wine",
+        "production_amount": 5.25,
+        "production_time": 5,
+        "consumption_resource": "Fruit",
+        "consumption_amount": 5.25
+    },
+    {
+        "name": "Hunter",
+        "production_resource": "Meat",
+        "production_amount": 4.2,
+        "production_time": 5,
+        "consumption_resource": null,
+        "consumption_amount": 0
+    },
+    {
+        "name": "Farm",
+        "production_resource": "Grain",
+        "production_amount": 4.2,
+        "production_time": 10,
+        "consumption_resource": null,
+        "consumption_amount": 0
+    },
+    {
+        "name": "Herbalist Hut",
+        "production_resource": "Herbs",
+        "production_amount": 4.2,
+        "production_time": 10,
+        "consumption_resource": null,
+        "consumption_amount": 0
+    },
+    {
+        "name": "Fisherman",
+        "production_resource": "Fish",
+        "production_amount": 4.2,
+        "production_time": 10,
+        "consumption_resource": "",
+        "consumption_amount": 0
+    },
+    {
+        "name": "Bakery",
+        "production_resource": "Bread",
+        "production_amount": 91,
+        "production_time": 20,
+        "consumption_resource": "Grain",
+        "consumption_amount": 546
+    },
+    {
+        "name": "Woodcutter",
+        "production_resource": "Log",
+        "production_amount": 2.45,
+        "production_time": 7,
+        "consumption_resource": null,
+        "consumption_amount": 0
+    },
+    {
+        "name": "Clay Pit",
+        "production_resource": "Clay",
+        "production_amount": 39.2,
+        "production_time": 14,
+        "consumption_resource": null,
+        "consumption_amount": 0
+    },
+    {
+        "name": "Sawmill",
+        "production_resource": "Plank",
+        "production_amount": 49,
+        "production_time": 14,
+        "consumption_resource": "Log",
+        "consumption_amount": 49
+    },
+    {
+        "name": "Quarry",
+        "production_resource": "Rough Stone",
+        "production_amount": 39.2,
+        "production_time": 28,
+        "consumption_resource": null,
+        "consumption_amount": 0
+    },
+    {
+        "name": "Kiln",
+        "production_resource": "Brick",
+        "production_amount": 156.8,
+        "production_time": 28,
+        "consumption_resource": "Clay",
+        "consumption_amount": 330.41
+    },
+    {
+        "name": "Forester Lodge",
+        "production_resource": "Hardwood",
+        "production_amount": 39.2,
+        "production_time": 28,
+        "consumption_resource": null,
+        "consumption_amount": 0
+    },
+    {
+        "name": "Shaman",
+        "production_resource": "Potion",
+        "production_amount": 0.28,
+        "production_time": 6,
+        "consumption_resource": null,
+        "consumption_amount": 0
+    },
+    {
+        "name": "Adept Shack",
+        "production_resource": "Concoction",
+        "production_amount": 5.5,
+        "production_time": 11,
+        "consumption_resource": "Potion",
+        "consumption_amount": 5.5
+    },
+    {
+        "name": "Paper Mill",
+        "production_resource": "Papyrus",
+        "production_amount": 4.4,
+        "production_time": 11,
+        "consumption_resource": null,
+        "consumption_amount": 0
+    },
+    {
+        "name": "Outcast Hovel",
+        "production_resource": "Mercury",
+        "production_amount": 2.2,
+        "production_time": 22,
+        "consumption_resource": null,
+        "consumption_amount": 0
+    },
+    {
+        "name": "Bookbinder",
+        "production_resource": "Blank Book",
+        "production_amount": 4.4,
+        "production_time": 22,
+        "consumption_resource": "Papyrus",
+        "consumption_amount": 8.8
+    },
+    {
+        "name": "Squid Fisher",
+        "production_resource": "Pigments",
+        "production_amount": 4.4,
+        "production_time": 22,
+        "consumption_resource": null,
+        "consumption_amount": 0
+    }
+]
