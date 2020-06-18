@@ -1,0 +1,2 @@
+consumer rate = (base_amount * research_multiplier) * (level * multiplicative_level_multiplier) * economy_boost * permanent_upgrade_multiplier * multiplicative_map_multipliers
+producer rate = (base_amount * research_multiplier * level * economy_boost * permanent_upgrade_multiplier) / (base_duration / multiplicative_speed_multiplier)

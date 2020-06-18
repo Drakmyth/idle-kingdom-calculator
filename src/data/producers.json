@@ -2,7 +2,7 @@
     {
         "name": "Foraging Hut",
         "production_resource": "Fruit",
-        "production_amount": 0.26,
+        "production_amount": 0.2625,
         "production_time": 3,
         "consumption_resource": null,
         "consumption_amount": 0
@@ -93,7 +93,7 @@
         "production_amount": 156.8,
         "production_time": 28,
         "consumption_resource": "Clay",
-        "consumption_amount": 330.41
+        "consumption_amount": 330.4
     },
     {
         "name": "Forester Lodge",

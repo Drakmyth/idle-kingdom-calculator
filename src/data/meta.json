@@ -2,39 +2,39 @@
     "producer_multipliers": [
         {
             "level": 10,
-            "multiplier": 2
+            "speed_multiplier": 2
         },
         {
             "level": 25,
-            "multiplier": 2
+            "speed_multiplier": 2
         },
         {
             "level": 50,
-            "multiplier": 2
+            "speed_multiplier": 2
         },
         {
             "level": 100,
-            "multiplier": 2
+            "speed_multiplier": 2
         },
         {
             "level": 200,
-            "multiplier": 2
+            "speed_multiplier": 2
         },
         {
             "level": 300,
-            "multiplier": 2
+            "speed_multiplier": 2
         },
         {
             "level": 400,
-            "multiplier": 2
+            "speed_multiplier": 2
         },
         {
             "level": 500,
-            "multiplier": 2
+            "speed_multiplier": 2
         },
         {
             "level": 750,
-            "multiplier": 2
+            "speed_multiplier": 2
         }
     ],
     "consumer_multipliers": [
@@ -70,5 +70,29 @@
             "level": 500,
             "multiplier": 1.13
         }
+    ],
+    "research_multipliers": [
+        1,
+        1.2,
+        1.4,
+        1.6,
+        1.8,
+        2,
+        2.2,
+        2.4,
+        2.6,
+        3.8,
+        4.2,
+        4.6,
+        5,
+        5.4,
+        5.8,
+        6.2,
+        6.6,
+        7,
+        7.4,
+        15.5,
+        17.3,
+        19.1
     ]
 }
