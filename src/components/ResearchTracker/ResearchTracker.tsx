@@ -2,9 +2,9 @@ import React from 'react';
 import './ResearchTracker.css';
 import consumers from '../../data/consumers.json'
 import producers from '../../data/producers.json'
-import BuildingResearchInput from './BuildingResearchInput';
+import ResearchTrackerForm from './ResearchTrackerForm';
 
-interface Building {
+export interface Building {
     name: string
 }
 
@@ -29,8 +29,11 @@ const ResearchTracker = () => {
 
     return (
         <div className="ResearchTracker">
+            <ResearchTrackerForm buildings={buildings}/>
             {
+            /* {
                 buildings.map(b => <BuildingResearchInput building={b.name}/>)
+            } */
             }
         </div>
     );
